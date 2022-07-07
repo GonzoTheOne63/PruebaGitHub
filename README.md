@@ -13,6 +13,6 @@
  
  __Bold__
  
- [Click Here](https://github.com)
+ [GITHUB](https://github.com)
  
- [Click Here](https://google.com)
+ [GOOGLE](https://google.com)
